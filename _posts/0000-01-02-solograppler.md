@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Jeol Goya slide!"
 ---
 
 This is solograpplers slide.
